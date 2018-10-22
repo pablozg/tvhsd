@@ -1,0 +1,21 @@
+# OS generated files #
+######################
+.DS_Store*
+._.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+~$*
+\#*\#
+*.autosave
+cadenasHOME.js_completo
+
+# Javascript #
+##############
+node_modules
+build
+
+# tvhsd
+tv.m3u
+guia.sd*
